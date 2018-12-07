@@ -1,5 +1,6 @@
 # DeandLCD
 http://zelectro.cc/nokia5110_module_arduino
+http://arduino-diy.com/arduino-graficheskiy-LCD-displey-84x48-Nokia-5110
 
 LCD  Arduino
 RST	 D7 - перезагрузка
